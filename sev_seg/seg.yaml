@@ -1,0 +1,21 @@
+# train and val datasets (image directory or *.txt file with image paths)
+path: D:/yolov5/sev_seg
+train: D:/yolov5/sev_seg/images/train/
+val: D:/yolov5/sev_seg/images/val/
+test:
+# number of classes
+nc: 10
+
+# class names
+names: ["0","1","2","3","4","5","6","7","8","9"]
+#names:
+#  0: '0'
+#  1: '1'
+#  2: '2'
+#  3: '3'
+#  4: '4'
+#  5: '5'
+#  6: '6'
+#  7: '7'
+#  8: '8'
+#  9: '9'

@@ -1,0 +1,11 @@
+path: D:/yolov5/sev_seg1
+train: D:/yolov5/sev_seg1/train.txt  
+val: D:/yolov5/sev_seg1/val.txt  
+test:
+
+nc: 10
+
+names: ['0','1','2','3','4','5','6','7','8','9']
+
+
+
